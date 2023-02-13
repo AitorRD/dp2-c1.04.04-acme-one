@@ -8,4 +8,8 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-- Rafael Corchuelo (corchu@us.es)
+- Aitor Rodríguez Dueñas (aitroddue)
+- Ramón José Guerrero Romero (ramguerom)
+- Julio Ribas de Novales (julribde)
+- Jesús Zambrana Guerra (jeszamgue)
+- Francisco Manuel Villalobos Páez (fravilpae)
